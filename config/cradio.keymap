@@ -118,7 +118,7 @@
         game {
             bindings = <
 &kp TAB     &kp Q  &kp W  &kp E     &kp R        &kp N1  &kp N2  &kp N3  &kp N4   &kp N5
-&kp LSHIFT  &kp A  &kp S  &kp D     &kp F        &kp M   &trans  &trans  &kp ESC  &kp GRAVE
+&kp LSHIFT  &kp A  &kp S  &kp D     &kp F        &kp M   &trans  &kp P   &kp ESC  &kp GRAVE
 &kp LCTRL   &kp Z  &kp X  &kp B     &kp G        &kp F1  &kp F2  &kp F3  &kp F4   &kp F5
                           &kp LALT  &kp SPACE    &trans  &tog 6
             >;
